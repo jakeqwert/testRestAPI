@@ -14,9 +14,13 @@ https://my-json-server.typicode.com/jakeqwert/testRestAPI
 testRestAPI
 Available resources:
 -movies      https://my-json-server.typicode.com/jakeqwert/testRestAPI/movies
+
 -posts       https://my-json-server.typicode.com/jakeqwert/testRestAPI/posts
+
 -comments    https://my-json-server.typicode.com/jakeqwert/testRestAPI/comments
+
 -profile object https://my-json-server.typicode.com/jakeqwert/testRestAPI/profile
+
 -db db       https://my-json-server.typicode.com/jakeqwert/testRestAPI/db
 
 You can use GET, POST, PUT, PATCH and DELETE. Changes aren't persisted between calls.
