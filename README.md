@@ -26,4 +26,4 @@ Available resources:
 You can use GET, POST, PUT, PATCH and DELETE. Changes aren't persisted between calls.
 
 Source
-https://github.com/jakeqwert/testRestAPI/blob/[main|master]/db.json
+https://github.com/jakeqwert/testRestAPI/db.json
