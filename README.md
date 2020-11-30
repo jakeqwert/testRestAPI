@@ -13,6 +13,7 @@ https://my-json-server.typicode.com/jakeqwert/testRestAPI
 
 testRestAPI
 Available resources:
+
 -movies      https://my-json-server.typicode.com/jakeqwert/testRestAPI/movies
 
 -posts       https://my-json-server.typicode.com/jakeqwert/testRestAPI/posts
